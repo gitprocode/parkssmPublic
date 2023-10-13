@@ -10,11 +10,11 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Springboot/ssm的智能停车场管理系统(源代码+数据库+11000字文档+ppt)623
+## 基于ssm的智能停车场管理系统(源代码+数据库+11000字文档+ppt)623
 
 ## 一、系统介绍
 
-本系统分为管理员与普通用户两种角色(本项目有springboot和ssm两种版本)
+本系统分为管理员与普通用户两种角色
 
 用户角色包含以下功能：
 - 登录、注册、系统公告查看、车位信息查看/评论/收藏/租用、社区论坛交流、联系客服、个人中心、密码修改
@@ -26,7 +26,6 @@
 ## 二、所用技术
 
 后端技术栈：
-- Springboot
 - ssm
 - mybatisPlus
 - mysql
